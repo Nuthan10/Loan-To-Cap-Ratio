@@ -50,7 +50,7 @@ Installation
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/loan-to-cap-ratio.git
+git clone https://github.com/Nuthan10/loan-to-cap-ratio.git
 cd loan-to-cap-ratio
 Create and activate a Python environment (recommended):
 
