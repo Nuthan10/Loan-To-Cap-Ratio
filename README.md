@@ -1,4 +1,5 @@
-Loan-to-Cap Ratio (LTC) Loan Default Prediction
+# Loan-to-Cap Ratio (LTC) 
+## Loan Default Prediction
 Project Overview
 This project builds a machine learning pipeline to predict loan default risk using not only traditional borrower information (like income and credit history) but also a novel financial resilience metric called the Loan-to-Cap (LTC) Ratio. The LTC ratio measures a borrower’s total loan amount relative to their insurance coverage limits, adding a critical dimension of financial safety net analysis to credit risk modeling.
 
